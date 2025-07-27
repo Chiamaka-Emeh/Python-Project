@@ -1,5 +1,10 @@
  # CAR INVENTORY ANALYSIS PROJECT
 
+## Table of Content
+
+- [Project Overview](#project-overview)
+- [Results](#results)
+- [Recommendation](#recommendation)
 ### Project Overview 
 
 This Data Analysis Project aims to provide insight from a dataset containing details about various cars, including their make, model, color, mileage, price, and cost. The project aims to uncover trends, relationships, and key patterns within the dataset.
@@ -77,7 +82,7 @@ We recommend the following:
 1. Inventory Planning:
    - Continue focusing on the $2k–$4k price range to attract cost-conscious buyers.
    - Maintain a balance of affordable vehicles with low mileage to appeal to both price and quality seekers.
-   - 
+    
 2. Targeted Procurement:
    - Prioritize Ford and Chevrolet for stock replenishment due to higher profitability.
    - Evaluate conditions of high-mileage but high-priced vehicles for brand-based premium pricing strategy.
