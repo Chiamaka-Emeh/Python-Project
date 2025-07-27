@@ -30,13 +30,11 @@ The Car Inventory Analysis project is designed to explore and analyze key insigh
 This Data Analysis Project aims to provide insight from a dataset containing details about various cars, including their make, model, color, mileage, price, and cost. The project aims to uncover trends, relationships, and key patterns within the dataset.
 
 ### Tools
-
 - Excel [Website](https:office.com)
 - Jupyter Notebook
 
-  //
 
-  ### Cleaning and Preprocessing the Dataset
+### Cleaning and Preprocessing the Dataset
   To ensure data integrity:
   1. Importing Libraries & Load Dataset
   2. Checking for missing values
